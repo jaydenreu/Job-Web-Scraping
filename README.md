@@ -1,5 +1,5 @@
 # Job Web Scraping
- Scrapes data analyst job postings data from Seek.co.nz
+ I have created an example of how to scrape data from a website. In this example, I scrape data analyst job postings from Seek.co.nz.
 
 This repository contains two files:
 * seek_jobs_data_scraping.ipynb
