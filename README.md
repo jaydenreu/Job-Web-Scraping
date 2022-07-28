@@ -3,9 +3,9 @@
 
 This repository contains two files:
 * seek_jobs_data_scraping.ipynb
- - Contains the Python/Jupyter Notebook which scrapes, parses, processes and loads the data
+  - Contains the Python/Jupyter Notebook which scrapes, parses, processes and loads the data
 * seek_data_analyst_10.csv
- - Contains the data output scripted in the ipynb file
+  - Contains the data output scripted in the ipynb file
 
 ### Fields:
 * role: Title of the role/job posting
