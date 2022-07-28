@@ -8,7 +8,7 @@ This repository contains two files:
  - Contains the data output scripted in the ipynb file
 
 ### Fields:
-* role: Title of the role/job posting
+* [b]role[/b]: Title of the role/job posting
 * company: Name of company who posted the role/job
 * when_posted: How long ago the job was posted (from 2022-07-29 00:00:00 NZST - note this repository is not dynamically updated)
 * sector: Sector in which the company/role operates
