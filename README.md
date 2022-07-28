@@ -17,3 +17,5 @@ This repository contains two files:
 * **district**: District in which the company operates/role is based
 * **salary**: Salary and/or benefits for the role (note that most jobs do not have this listed)
 * **summary**: Additional information (such as company info, job requirements, etc).
+
+Any questions, please contact me via email at jayden@jaydenreuben.tech
